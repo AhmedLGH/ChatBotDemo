@@ -33,7 +33,7 @@
 
 .selected {
     /* outline: 2px solid rgba(115, 118, 225, 1); */
-    outline: 2px solid #00008f;
+    outline: 2px solid #942484;
 }
 
 .citationLearnMore {
@@ -48,8 +48,8 @@
     text-align: center;
     border-radius: 4px;
     padding: 0px 8px;
-    background: #d1dbfa;
-    color: #00008f;
+    background: #e1cdde;
+    color: #942484;
     text-decoration: none;
     cursor: pointer;
 }
@@ -74,7 +74,6 @@
     text-align: center;
     border-radius: 4px;
     padding: 0px 8px;
-    /* background: #faf4ed; */
     background: #505087;
     color: black;
     font-style: italic;
@@ -104,8 +103,8 @@ sup {
     min-width: 14px;
     height: 14px;
     border-radius: 3px;
-    background: #d1dbfa;
-    color: #00008f;
+    background: #e1cdde;
+    color: #942484;
     text-decoration-color: transparent;
     outline: transparent solid 1px;
     cursor: pointer;
